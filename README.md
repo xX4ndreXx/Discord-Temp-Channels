@@ -35,10 +35,6 @@ tempChannels.registerChannel("channel-id", {
 client.login("YOUR_TOKEN");
 ```
 
-### Result
-
-![temp](./assets/temp-channels.gif)
-
 ## Methods
 
 ### Register Channel
